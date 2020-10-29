@@ -1,5 +1,6 @@
 # todo-app
 
+First try on VueJS 3. This is a Todo list.
 ## Project setup
 ```
 npm install
